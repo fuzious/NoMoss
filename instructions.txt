@@ -1,0 +1,7 @@
+For using NoMoss on standalone systems:
+
+1) download JSP from https://www.java.com/en/download/win10.jsp
+2) create a file name "input.txt" with your code inside it.
+3) if your code is in JAVA or C ,add "//1" or"//2" (without quotes) respectively as the first line of your code.
+4) Now run the file "NoMoss.jar"
+5) A new file "output.txt" with your code will be created.
