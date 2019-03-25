@@ -46,7 +46,7 @@ It utilizes the brute-force algorithm of the technique to create a NoMoss clone 
 ### Author
 Idea and creator - [Arpit Srivastava](https://github.com/fuzious)
 
-### Small contributors
+### Contributors
 [Aman Raj](https://github.com/amanraj1608)
 
 ---
