@@ -38,8 +38,12 @@ For using NoMoss on standalone systems:
 4) Now run the file "NoMoss.jar"
 5) A new file "output.txt" with your code will be created.
 
+---
+
 ## Author
-[Arpit Srivastava](https://github.com/fuzious)
+Idea and creater - [Arpit Srivastava](https://github.com/fuzious)
 
 ## Small contributors
 [Aman Raj](https://github.com/amanraj1608)
+
+---
