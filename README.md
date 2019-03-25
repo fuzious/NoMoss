@@ -1,5 +1,45 @@
-# NoMoss
-bypass MOSS technique used to detect code plagiarism
+<p align="center"><img src="https://image.flaticon.com/icons/svg/1487/1487356.svg" align="center" width="175"></p>
+<h1 align="center">NoMoss</h1>
 
-What is NoMoss: view:NoMoss.pdf
-How to use: view instructions.txt
+<p align="center">
+  <img width="165" height="55" src="https://forthebadge.com/images/badges/made-with-java.svg">
+  <img width="155" height="55" src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img width="165" height="55" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
+</p>
+<hr>
+<p align="center">
+  <b>Bypass MOSS technique which is used to detect code plagiarism</b>
+</p>
+
+
+### What is MOSS:
+Moss (Measure of Software Similarity) is an algorithm devloped by Stanford for educational purposes to code up with 
+code  plagarism. This technique is being used by various competetive coding websites like CodeChef to keep a check on
+plagarism.
+
+You can see how Moss work on Stanford website - [Source](http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf)
+
+### Disadvantage of MOSS:
+Although this technique is awesome but it isn't perfect. As it harms some innocent canddates while some crimnals are able to escape.
+
+### What is NoMoss?
+NoMoss is a technique to bypass MOSS, which has been developed on the firm belief of
+
+```
+"No innocent should be hanged even though hundreds of crimnals are to be librated."
+```
+
+### How to use:
+For using NoMoss on standalone systems:
+
+1) Download JSP from [Here](https://www.java.com/en/download/win10.jsp)
+2) Create a file name "input.txt" with your code inside it.
+3) If your code is in JAVA or C ,add "//1" or"//2" (without quotes) respectively as the first line of your code.
+4) Now run the file "NoMoss.jar"
+5) A new file "output.txt" with your code will be created.
+
+## Author
+[Arpit Srivastava](https://github.com/fuzious)
+
+## Small contributors
+[Aman Raj](https://github.com/amanraj1608)
