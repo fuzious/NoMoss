@@ -20,13 +20,13 @@ plagarism.
 You can see how Moss work on Stanford website - [Source](http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf)
 
 ### Disadvantage of MOSS:
-Although this technique is awesome but it isn't perfect. As it harms some innocent canddates while some crimnals are able to escape.
+Although this technique is awesome but it isn't perfect. As it harms some innocent canddates while some criminals are able to escape.
 
 ### What is NoMoss?
 NoMoss is a technique to bypass MOSS, which has been developed on the firm belief of
 
 ```
-"No innocent should be hanged even though hundreds of crimnals are to be librated."
+"No innocent should be hanged even though hundreds of criminals are to be librated."
 ```
 
 ### How to use:
