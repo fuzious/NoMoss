@@ -33,13 +33,13 @@ NoMoss is a technique to bypass MOSS, which has been developed on the firm belie
 For using NoMoss on standalone systems:
 
 1) Download JSP from [Here](https://www.java.com/en/download/win10.jsp)
-2) Create a file name "input.txt" with your code inside it.
+2) Create a file name "input.txt" with your code inside it in the same directory as ["NoMoss.jar"](https://github.com/fuzious/NoMoss/blob/master/NoMoss.jar)
 3) If your code is in JAVA or C ,add "//1" or"//2" (without quotes) respectively as the first line of your code.
 4) Now run the file ["NoMoss.jar"](https://github.com/fuzious/NoMoss/blob/master/NoMoss.jar)
 5) A new file "output.txt" with your code will be created.
 
 ### How it works:
-It utilizes the brute-force algorithm of the technique to create a NoMoss clone of the original code. Eg.
+It utilizes the brute-force algorithm of the technique to create a NoMoss clone of the original code.
 
 ---
 
