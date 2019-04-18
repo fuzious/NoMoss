@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nomoss:war exploded">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="nomoss_war exploded.war">
+      <element id="javaee-facet-resources" facet="nomoss/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="nomoss" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
