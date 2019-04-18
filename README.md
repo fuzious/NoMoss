@@ -4,7 +4,6 @@
 <p align="center">
   <img width="165" height="55" src="https://forthebadge.com/images/badges/made-with-java.svg">
   <img width="155" height="55" src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img width="165" height="55" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
 </p>
 <hr>
 <p align="center">
