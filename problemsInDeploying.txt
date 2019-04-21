@@ -1,0 +1,415 @@
+
+C:\Users\fuzious\Desktop\NoMoss>DIR
+ Volume in drive C has no label.
+ Volume Serial Number is F00B-F0E0
+
+ Directory of C:\Users\fuzious\Desktop\NoMoss
+
+04/21/2019  07:23 PM    <DIR>          .
+04/21/2019  07:23 PM    <DIR>          ..
+04/21/2019  07:23 PM               301 .gitignore
+04/21/2019  07:23 PM    <DIR>          NoMoss web
+04/21/2019  07:23 PM           403,882 NoMoss.jar
+04/21/2019  07:23 PM           129,793 NoMoss.pdf
+04/21/2019  07:23 PM             5,120 NoMoss.war
+04/21/2019  07:23 PM                51 Procfile
+04/21/2019  07:23 PM             2,154 README.md
+04/21/2019  07:23 PM                27 _config.yml
+               7 File(s)        541,328 bytes
+               3 Dir(s)  82,128,822,272 bytes free
+
+C:\Users\fuzious\Desktop\NoMoss>git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+
+C:\Users\fuzious\Desktop\NoMoss>git add .
+
+C:\Users\fuzious\Desktop\NoMoss>git commit  -m "Fixed paths"
+[master e8f2d88] Fixed paths
+ 13 files changed, 0 insertions(+), 0 deletions(-)
+ rename {NoMoss web/NoMoss => NoMoss}/.classpath (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/.project (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/.settings/.jsdtscope (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/.settings/org.eclipse.jdt.core.prefs (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/.settings/org.eclipse.wst.common.component (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/.settings/org.eclipse.wst.common.project.facet.core.xml (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/.settings/org.eclipse.wst.jsdt.ui.superType.container (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/.settings/org.eclipse.wst.jsdt.ui.superType.name (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/WebContent/META-INF/MANIFEST.MF (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/WebContent/WEB-INF/web.xml (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/WebContent/index.html (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/src/main/java/Add.java (100%)
+ rename {NoMoss web/NoMoss => NoMoss}/src/main/java/NoMoss.java (100%)
+
+C:\Users\fuzious\Desktop\NoMoss>git push
+
+C:\Users\fuzious\Desktop\NoMoss>
+
+C:\Users\fuzious\Desktop\NoMoss>
+
+C:\Users\fuzious\Desktop\NoMoss>git push origin
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 268 bytes | 268.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/fuzious/NoMoss.git
+   2d4bfaa..e8f2d88  master -> master
+
+C:\Users\fuzious\Desktop\NoMoss>git add .
+
+C:\Users\fuzious\Desktop\NoMoss>git add .
+
+C:\Users\fuzious\Desktop\NoMoss>git commit -m "Add pom.xml"
+[master 4737a79] Add pom.xml
+ 1 file changed, 12 insertions(+)
+ create mode 100644 pom.xml
+
+C:\Users\fuzious\Desktop\NoMoss>git push origin
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 265 bytes | 265.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/fuzious/NoMoss.git
+   e8f2d88..4737a79  master -> master
+
+C:\Users\fuzious\Desktop\NoMoss>code pom.xml
+'code' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\fuzious\Desktop\NoMoss>subl pom.xml
+
+C:\Users\fuzious\Desktop\NoMoss>git add .
+
+C:\Users\fuzious\Desktop\NoMoss>git commit -m "Change file name"
+[master a7658a9] Change file name
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename pom.xml => web.xml (100%)
+
+C:\Users\fuzious\Desktop\NoMoss>git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 262 bytes | 262.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/fuzious/NoMoss.git
+   4737a79..a7658a9  master -> master
+
+C:\Users\fuzious\Desktop\NoMoss><?xml version="1.0" encoding="UTF-8"?>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss><project xmlns="http://maven.apache.org/POM/4.0.0"
+The system cannot find the file specified.
+
+C:\Users\fuzious\Desktop\NoMoss>         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    <modelVersion>4.0.0</modelVersion>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    <groupId>com.example</groupId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    <version>1.0-SNAPSHOT</version>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    <artifactId>helloworld</artifactId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    <dependencies>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>        <dependency>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            <groupId>org.eclipse.jetty</groupId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            <artifactId>jetty-servlet</artifactId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            <version>7.6.0.v20120127</version>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>        </dependency>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>        <dependency>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            <groupId>javax.servlet</groupId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            <artifactId>servlet-api</artifactId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            <version>2.5</version>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>        </dependency>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    </dependencies>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    <build>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>        <plugins>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            <plugin>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                <groupId>org.apache.maven.plugins</groupId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                <artifactId>maven-dependency-plugin</artifactId>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                <version>2.4</version>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                <executions>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                    <execution>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                        <id>copy-dependencies</id>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                        <phase>package</phase>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                        <goals><goal>copy-dependencies</goal></goals>
+< was unexpected at this time.
+
+C:\Users\fuzious\Desktop\NoMoss>                    </execution>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>                </executions>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>            </plugin>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>        </plugins>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>    </build>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss></project>
+The syntax of the command is incorrect.
+
+C:\Users\fuzious\Desktop\NoMoss>heroku plugins:install java
+Installing plugin java... installed v3.0.3
+
+C:\Users\fuzious\Desktop\NoMoss>heroku war:deploy NoMoss.war --app NoMoss
+Uploading NoMoss.war
+-----> Packaging application...
+       - app: NoMoss
+       - including: webapp-runner.jar
+       - including: NoMoss.war
+ ! ERROR: Application not found. statuscode:404 responseBody:{"resource":"app","id":"not_found","message":"Couldn't find that app."}
+ !        Re-run with HEROKU_DEBUG=1 for more info.
+ !    There was a problem deploying to NoMoss.
+ !    Make sure you have permission to deploy by running: heroku apps:info -a NoMoss
+
+C:\Users\fuzious\Desktop\NoMoss>heroku war:deploy NoMoss.war --app no-moss
+Uploading NoMoss.war
+-----> Packaging application...
+       - app: no-moss
+       - including: webapp-runner.jar
+       - including: NoMoss.war
+ ! ERROR: Application not found. statuscode:404 responseBody:{"resource":"app","id":"not_found","message":"Couldn't find that app."}
+ !        Re-run with HEROKU_DEBUG=1 for more info.
+ !    There was a problem deploying to no-moss.
+ !    Make sure you have permission to deploy by running: heroku apps:info -a no-moss
+
+C:\Users\fuzious\Desktop\NoMoss>heroku apps:info -a no-moss
+ !    Couldn't find that app.
+
+C:\Users\fuzious\Desktop\NoMoss>heroku git init
+manage local git repository for app
+
+USAGE
+  $ heroku git:COMMAND
+
+COMMANDS
+  git:clone   clones a heroku app to your local machine at DIRECTORY (defaults to app name)
+  git:remote  adds a git remote to an app repo
+
+
+C:\Users\fuzious\Desktop\NoMoss>git init
+Reinitialized existing Git repository in C:/Users/fuzious/Desktop/NoMoss/.git/
+
+C:\Users\fuzious\Desktop\NoMoss>heroku git:remote -a no-moss
+set git remote heroku to https://git.heroku.com/no-moss.git
+
+C:\Users\fuzious\Desktop\NoMoss>heroku apps:info -a no-moss
+=== no-moss
+Auto Cert Mgmt: false
+Dynos:
+Git URL:        https://git.heroku.com/no-moss.git
+Owner:          arpitsrivastava2012@gmail.com
+Region:         us
+Repo Size:      0 B
+Slug Size:      0 B
+Stack:          heroku-18
+Web URL:        https://no-moss.herokuapp.com/
+
+C:\Users\fuzious\Desktop\NoMoss>heroku war:deploy NoMoss.war --app no-moss
+Uploading NoMoss.war
+-----> Packaging application...
+       - app: no-moss
+       - including: webapp-runner.jar
+       - including: NoMoss.war
+-----> Creating build...
+       - file: slug.tgz
+       - size: 19MB
+-----> Uploading build...
+       - success
+-----> Deploying...
+remote:
+remote: -----> heroku-deploy app detected
+remote: -----> Installing JDK 1.8... done
+remote: -----> Discovering process types
+remote:        Procfile declares types -> web
+remote:
+remote: -----> Compressing...
+remote:        Done: 70.4M
+remote: -----> Launching...
+remote:        Released v3
+remote:        https://no-moss.herokuapp.com/ deployed to Heroku
+remote:
+-----> Done
+
+C:\Users\fuzious\Desktop\NoMoss>heroku logs
+2019-04-21T14:22:01.412723+00:00 heroku[web.1]: Starting process with command `java -cp target/classes: target/dependency/* Add`
+2019-04-21T14:22:04.187899+00:00 app[web.1]: Setting JAVA_TOOL_OPTIONS defaults based on dyno size. Custom settings will override them.
+2019-04-21T14:22:04.205947+00:00 app[web.1]: Picked up JAVA_TOOL_OPTIONS: -Xmx300m -Xss512k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8
+2019-04-21T14:22:04.766028+00:00 app[web.1]: Error: Could not find or load main class target.dependency.*
+2019-04-21T14:22:04.871106+00:00 heroku[web.1]: State changed from starting to crashed
+2019-04-21T14:22:04.875083+00:00 heroku[web.1]: State changed from crashed to starting
+2019-04-21T14:22:04.851886+00:00 heroku[web.1]: Process exited with status 1
+2019-04-21T14:22:07.925655+00:00 heroku[web.1]: Starting process with command `java -cp target/classes: target/dependency/* Add`
+2019-04-21T14:22:09.869624+00:00 heroku[web.1]: State changed from starting to crashed
+2019-04-21T14:22:09.682310+00:00 app[web.1]: Setting JAVA_TOOL_OPTIONS defaults based on dyno size. Custom settings will override them.
+2019-04-21T14:22:09.686044+00:00 app[web.1]: Picked up JAVA_TOOL_OPTIONS: -Xmx300m -Xss512k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8
+2019-04-21T14:22:09.807381+00:00 app[web.1]: Error: Could not find or load main class target.dependency.*
+2019-04-21T14:22:09.854348+00:00 heroku[web.1]: Process exited with status 1
+2019-04-21T14:22:29.884982+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=no-moss.herokuapp.com request_id=571f3b20-444c-46eb-b86b-92a7aaeed4e8 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:22:30.926020+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=no-moss.herokuapp.com request_id=b52f8628-7521-45be-a546-afddb2ca0b80 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:23:21.932264+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/NoMoss/" host=no-moss.herokuapp.com request_id=336ff8a8-1b06-4b94-a2d5-5a59bcd503c0 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:23:22.526270+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=no-moss.herokuapp.com request_id=edd4bcea-1b14-4281-8be4-51027733bf42 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+
+C:\Users\fuzious\Desktop\NoMoss>subl Procfile
+
+C:\Users\fuzious\Desktop\NoMoss>git add .
+warning: LF will be replaced by CRLF in NoMoss/.idea/workspace.xml.
+The file will have its original line endings in your working directory
+
+C:\Users\fuzious\Desktop\NoMoss>git commit -m "update Procfile"
+[master 4af634b] update Procfile
+ 6 files changed, 310 insertions(+), 1 deletion(-)
+ create mode 100644 NoMoss/.idea/misc.xml
+ create mode 100644 NoMoss/.idea/modules.xml
+ create mode 100644 NoMoss/.idea/vcs.xml
+ create mode 100644 NoMoss/.idea/workspace.xml
+ create mode 100644 NoMoss/NoMoss.iml
+
+C:\Users\fuzious\Desktop\NoMoss>git push heroku maste
+error: src refspec maste does not match any
+error: failed to push some refs to 'https://git.heroku.com/no-moss.git'
+
+C:\Users\fuzious\Desktop\NoMoss>git push heroku master
+Enumerating objects: 155, done.
+Counting objects: 100% (155/155), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (88/88), done.
+Writing objects: 100% (155/155), 527.82 KiB | 12.57 MiB/s, done.
+Total 155 (delta 53), reused 136 (delta 45)
+remote: Compressing source files... done.
+remote: Building source:
+remote:
+remote: -----> JVM Common app detected
+remote: -----> Installing JDK 1.8... done
+remote: -----> Discovering process types
+remote:        Procfile declares types -> web
+remote:
+remote: -----> Compressing...
+remote:        Done: 51M
+remote: -----> Launching...
+remote:        Released v4
+remote:        https://no-moss.herokuapp.com/ deployed to Heroku
+remote:
+remote: Verifying deploy... done.
+To https://git.heroku.com/no-moss.git
+ * [new branch]      master -> master
+
+C:\Users\fuzious\Desktop\NoMoss>heroku logs
+2019-04-21T14:22:01.412723+00:00 heroku[web.1]: Starting process with command `java -cp target/classes: target/dependency/* Add`
+2019-04-21T14:22:04.187899+00:00 app[web.1]: Setting JAVA_TOOL_OPTIONS defaults based on dyno size. Custom settings will override them.
+2019-04-21T14:22:04.205947+00:00 app[web.1]: Picked up JAVA_TOOL_OPTIONS: -Xmx300m -Xss512k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8
+2019-04-21T14:22:04.766028+00:00 app[web.1]: Error: Could not find or load main class target.dependency.*
+2019-04-21T14:22:04.871106+00:00 heroku[web.1]: State changed from starting to crashed
+2019-04-21T14:22:04.875083+00:00 heroku[web.1]: State changed from crashed to starting
+2019-04-21T14:22:04.851886+00:00 heroku[web.1]: Process exited with status 1
+2019-04-21T14:22:07.925655+00:00 heroku[web.1]: Starting process with command `java -cp target/classes: target/dependency/* Add`
+2019-04-21T14:22:09.869624+00:00 heroku[web.1]: State changed from starting to crashed
+2019-04-21T14:22:09.682310+00:00 app[web.1]: Setting JAVA_TOOL_OPTIONS defaults based on dyno size. Custom settings will override them.
+2019-04-21T14:22:09.686044+00:00 app[web.1]: Picked up JAVA_TOOL_OPTIONS: -Xmx300m -Xss512k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8
+2019-04-21T14:22:09.807381+00:00 app[web.1]: Error: Could not find or load main class target.dependency.*
+2019-04-21T14:22:09.854348+00:00 heroku[web.1]: Process exited with status 1
+2019-04-21T14:22:29.884982+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=no-moss.herokuapp.com request_id=571f3b20-444c-46eb-b86b-92a7aaeed4e8 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:22:30.926020+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=no-moss.herokuapp.com request_id=b52f8628-7521-45be-a546-afddb2ca0b80 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:23:21.932264+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/NoMoss/" host=no-moss.herokuapp.com request_id=336ff8a8-1b06-4b94-a2d5-5a59bcd503c0 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:23:22.526270+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=no-moss.herokuapp.com request_id=edd4bcea-1b14-4281-8be4-51027733bf42 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:28:01.665143+00:00 heroku[web.1]: State changed from crashed to starting
+2019-04-21T14:28:04.201656+00:00 heroku[web.1]: Starting process with command `java -jar target/dependency/webapp-runner.jar target/*.war`
+2019-04-21T14:28:05.955217+00:00 heroku[web.1]: State changed from starting to crashed
+2019-04-21T14:28:05.934780+00:00 heroku[web.1]: Process exited with status 1
+2019-04-21T14:28:05.867525+00:00 app[web.1]: Setting JAVA_TOOL_OPTIONS defaults based on dyno size. Custom settings will override them.
+2019-04-21T14:28:05.868862+00:00 app[web.1]: Error: Unable to access jarfile target/dependency/webapp-runner.jar
+2019-04-21T14:28:13.425258+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=no-moss.herokuapp.com request_id=e0f7eeea-7791-46c7-8c6b-c0d2026bde64 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+2019-04-21T14:28:14.224368+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=no-moss.herokuapp.com request_id=39c19ea4-abf9-4b01-af07-d8cbc6255434 fwd="49.38.104.32" dyno= connect= service= status=503 bytes= protocol=https
+
+C:\Users\fuzious\Desktop\NoMoss>heroku war:deploy NoMoss.war --app no-moss
+Uploading NoMoss.war
+-----> Packaging application...
+       - app: no-moss
+       - including: webapp-runner.jar
+       - including: NoMoss.war
+-----> Creating build...
+       - file: slug.tgz
+       - size: 19MB
+-----> Uploading build...
+       - success
+-----> Deploying...
+remote:
+remote: -----> heroku-deploy app detected
+remote: -----> Installing JDK 1.8... done
+remote: -----> Discovering process types
+remote:        Procfile declares types -> web
+remote:
+remote: -----> Compressing...
+remote:        Done: 70.4M
+remote: -----> Launching...
+remote:        Released v5
+remote:        https://no-moss.herokuapp.com/ deployed to Heroku
+remote:
+-----> Done
+
+C:\Users\fuzious\Desktop\NoMoss>
