@@ -1,4 +1,4 @@
-<p align="center"><img src="https://image.flaticon.com/icons/svg/1487/1487356.svg" align="center" width="175"></p>
+<a href="https://no-moss.herokuapp.com/"><p align="center"><img src="https://image.flaticon.com/icons/svg/1487/1487356.svg" align="center" width="175"></p></a>
 <h1 align="center">NoMoss</h1>
 
 <p align="center">
@@ -30,7 +30,7 @@ NoMoss is a technique to bypass MOSS, which has been developed on the firm belie
 
 ### How to use:
 
-You can use NoMoss by going to official website - [NoMoss]()
+You can use NoMoss by going to official website - [NoMoss](https://no-moss.herokuapp.com/)
 
 For using NoMoss on standalone systems:
 
