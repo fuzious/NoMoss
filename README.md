@@ -10,7 +10,7 @@
   <b>Bypass MOSS technique which is used to detect code plagiarism</b>
 </p>
 
-###Link to NoMoss code editor - [NoMoss](https://no-moss.herokuapp.com/)
+### Link to no-moss online code editor : [NoMoss](https://no-moss.herokuapp.com/)
 ### What is MOSS:
 Moss (Measure of Software Similarity) is an algorithm devloped by Stanford for educational purposes to code up with 
 code  plagarism. This technique is being used by various competetive coding websites like CodeChef to keep a check on
