@@ -30,7 +30,7 @@ NoMoss is a technique to bypass MOSS, which has been developed on the firm belie
 
 ### How to use:
 
-You can use NoMoss by going to official website - [NoMoss](https://no-moss.herokuapp.com/)
+You can use NoMoss on its online code editor - [NoMoss](https://no-moss.herokuapp.com/)
 
 For using NoMoss on standalone systems:
 
