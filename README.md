@@ -27,6 +27,7 @@ NoMoss is a technique to bypass MOSS, which has been developed on the firm belie
 ```
 "No innocent should be hanged even though hundreds of criminals are to be librated."
 ```
+besides No-Moss would also help in the development of moss technology by exposing its loopholes.
 
 ### How to use:
 
@@ -42,6 +43,7 @@ For using NoMoss on standalone systems:
 
 ### How it works:
 It utilizes the brute-force algorithm of the technique to create a NoMoss clone of the original code.
+<br>I am continuously trying to improve the algorithms of No-moss further so that it becomes almost impossible for a MOSS detector to detect plagiarism.
 
 ---
 
